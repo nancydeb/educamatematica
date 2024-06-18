@@ -1,6 +1,7 @@
 .navegacion {
     display: flex;
     height: 300px;
+   
     background-color: rgb(245, 134, 94);
     justify-content: space-between;
   }
@@ -67,4 +68,9 @@
   background-color:rgb(158, 143, 143,0.5);
   padding:20px;
  }
-  
+.volver {
+  text-align: right;
+  font-size: x-large;
+  margin-right: 50px;
+    
+}
